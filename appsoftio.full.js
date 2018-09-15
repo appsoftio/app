@@ -236,4 +236,5 @@ $(function(){
 		};
 		window.J = new J();
 	})(window);
+	console.log('good!');
 });
